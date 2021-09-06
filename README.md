@@ -8,13 +8,13 @@
 3. axios for hitting the json-server and for various GET,POST,DELETE,UPDATE requests.
 4. Download the source code and RUN -> npm i install for installing all the packages... Then run "npm run dev" which will start both the json-server and react app(use of concurrently library for this );
 
- ![All Users](/imagesg/machstatz1.png)
+ ![All Users](/images/machstatz1.png)
  
- ![Add Users](/img/machstatz2.png)
+ ![Add Users](/images/machstatz2.png)
  
- ![ms](/img/machstatz3.png)
+ ![ms](/images/machstatz3.png)
  
- ![ms1](/img/machstatz4.png)
+ ![ms1](/images/machstatz4.png)
  
- ![ms2](/img/machstatz5.png)
+ ![ms2](/images/machstatz5.png)
  

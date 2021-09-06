@@ -1,0 +1,68 @@
+{
+  "machstatz": [
+    {
+      "email": "kartikeya2998@gmail.com",
+      "first_name": "Kartikeya",
+      "last_name": "Yadav",
+      "password": "345555",
+      "username": " kt229",
+      "id": 1
+    },
+    {
+      "email": " Ahesshe22@gmail.com",
+      "first_name": " Asheesh",
+      "last_name": " Mittal",
+      "password": "321111",
+      "username": " Mittal22",
+      "id": 2
+    },
+    {
+      "email": " Soni2290@gmail.com",
+      "first_name": " Soni",
+      "last_name": " Yadav",
+      "password": "9088",
+      "username": " Soni22",
+      "id": 3
+    },
+    {
+      "email": " Chetu22@gmail.com",
+      "first_name": " Chetan",
+      "last_name": " Bansal",
+      "password": "Chetu22",
+      "username": " Chetu",
+      "id": 4
+    },
+    {
+      "email": " Abhayagarwal@gmail.com",
+      "first_name": " Abhay",
+      "last_name": " Agarwal",
+      "password": "Abhi77",
+      "username": " abhay233",
+      "id": 5
+    },
+    {
+      "email": " Ritik33@gmail.com",
+      "first_name": " Ritik",
+      "last_name": "Singh",
+      "password": "Rtk333",
+      "username": " Rt33",
+      "id": 6
+    },
+    {
+      "email": " Mishra22@gmail.com",
+      "first_name": " Subham",
+      "last_name": " Mishra",
+      "password": "msji22",
+      "username": " Mishraji",
+      "id": 7
+    },
+    {
+      "email": " MPI@gmail.com",
+      "first_name": " Machstatz1",
+      "last_name": " Private ltd",
+      "password": "mp22",
+      "username": " MP1",
+      "id": 8
+    }
+  ]
+}
