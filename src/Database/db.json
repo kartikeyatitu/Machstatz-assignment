@@ -5,7 +5,7 @@
       "first_name": "Kartikeya",
       "last_name": "Yadav",
       "password": "345555",
-      "username": " kt229",
+      "username": " kt2293",
       "id": 1
     },
     {
@@ -13,7 +13,7 @@
       "first_name": " Asheesh",
       "last_name": " Mittal",
       "password": "321111",
-      "username": " Mittal22",
+      "username": " Mittal222",
       "id": 2
     },
     {
@@ -55,14 +55,6 @@
       "password": "msji22",
       "username": " Mishraji",
       "id": 7
-    },
-    {
-      "email": " MPI@gmail.com",
-      "first_name": " Machstatz1",
-      "last_name": " Private ltd",
-      "password": "mp22",
-      "username": " MP1",
-      "id": 8
     }
   ]
 }
