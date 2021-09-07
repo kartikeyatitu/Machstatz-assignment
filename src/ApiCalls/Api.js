@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const url= "http://localhost:8001/machstatz" //url of json server 
+const url= "https://machstatz1.herokuapp.com/machstatz" //url of json server 
 export  const getUsers = async(id) => {
 
     id= id  ||  ''
