@@ -6,7 +6,8 @@
 1. Used json server for storing the data.
 2. Material Ui for creating the frontend.
 3. axios for hitting the json-server and for various GET,POST,DELETE,UPDATE requests.
-4. Download the source code and RUN -> npm i install for installing all the packages... Then run "npm run dev" which will start both the json-server and react app(use of concurrently library for this );
+4. Download the source code and RUN -> npm i install for installing all the packages... Then run go to the package.json file and in start script add ""concurrently \" set  PORT=8000  && react-scripts start\" \"json-server --watch src/Database/db.json --port 8001\"
+5.Then run npm run start in terminal
 
  ![All Users](/images/machstatz1.png)
  
