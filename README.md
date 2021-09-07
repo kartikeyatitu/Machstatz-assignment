@@ -9,7 +9,7 @@
 4. Download the source code and RUN -> npm i install for installing all the packages... Then run go to the package.json file and in start script add ""concurrently \" set  PORT=8000  && react-scripts start\" \"json-server --watch src/Database/db.json --port 8001\"
 5. Then run npm run start in terminal
 6. HEROKU LINK-> (https://machstatz1.herokuapp.com/)
-7 . If the link is not working please try to refres 
+7 . If the link is not working please try to refresh
 
  ![All Users](/images/machstatz1.png)
  
